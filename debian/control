@@ -1,0 +1,11 @@
+Source: sample
+Section: web
+Priority: extra
+Maintainer: Ivan Bessarabov <ivan@bessarabov.ru>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.0
+
+Package: sample
+Architecture: any
+Depends: ${misc:Depends}
+Description: Just a sample package
