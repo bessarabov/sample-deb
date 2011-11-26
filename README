@@ -1,0 +1,3 @@
+= Sample project to create simple deb package
+
+Just checkout this code and run debuild!
